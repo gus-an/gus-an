@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://media.giphy.com/media/jkojXEIwuqp6o/giphy.gif)
 <!--
 **gus-an/gus-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
